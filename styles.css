@@ -237,17 +237,20 @@
   }
   
   .attribution {
+    font-size: 11px;
+    text-align: center;
     margin-top: 20px;
     font-size: 0.875rem;
     color: #777;
   }
   
   .attribution a {
-    color: #ff52bf;
-    text-decoration: none;
+    color: hsl(228, 45%, 44%);
+    text-decoration: underline;
   }
   
   .attribution a:hover {
+    color: #cc12bd;
     text-decoration: underline;
   }
   
